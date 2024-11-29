@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\bin\Debug\net8.0\DataBaseConsole.exe
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\bin\Debug\net8.0\DataBaseConsole.deps.json
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\bin\Debug\net8.0\DataBaseConsole.runtimeconfig.json
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\bin\Debug\net8.0\DataBaseConsole.dll
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\bin\Debug\net8.0\DataBaseConsole.pdb
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.AssemblyInfo.cs
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.dll
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\refint\DataBaseConsole.dll
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.pdb
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\DataBaseConsole.genruntimeconfig.cache
+C:\Users\user\source\repos\DataBaseConsole\DataBaseConsole\obj\Debug\net8.0\ref\DataBaseConsole.dll
